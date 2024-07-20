@@ -120,6 +120,7 @@ kubectl delete -f statefulset.yaml
 kubectl delete -f service.yaml
 kubectl delete -f pvc.yaml
 kubectl delete -f configmap.yaml
+```
 
 Conclusion
 This project provides a straightforward way to deploy MongoDB on a Kubernetes cluster using only Kubernetes manifests. By following the steps outlined in this README, you can set up a scalable and reliable MongoDB deployment. For more details, refer to the official documentation and resources.
